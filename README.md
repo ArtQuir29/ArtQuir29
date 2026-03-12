@@ -99,3 +99,11 @@ Gestión de tareas y equipos usando **MongoDB**.
 ---
 
 ⭐ Siempre aprendiendo y desarrollando nuevos proyectos.
+
+---
+
+# 🐍 Mis contribuciones
+
+<p align="center">
+<img src="https://github.com/ArtQuir29/ArtQuir29/blob/output/github-contribution-grid-snake.svg" />
+</p>
