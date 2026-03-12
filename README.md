@@ -13,7 +13,6 @@
 * 🎓 Estudiante de programación
 * 🧠 Me gusta desarrollar **sistemas completos (Frontend + Backend)**
 * 📱 Actualmente trabajando en una **App de control de acceso escolar con RFID**
-* 📊 Creando **dashboards en tiempo real con Socket.io y gráficos**
 * 🌐 Desarrollando **APIs y aplicaciones web**
 
 ---
@@ -21,7 +20,7 @@
 # 🧠 Lenguajes de Programación
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
+<img src="https://skillicons.dev/icons?i=js,python,html,css" />
 </p>
 
 ---
@@ -29,7 +28,7 @@
 # ⚙️ Frameworks y Librerías
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind,sequelize" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind" />
 </p>
 
 ---
@@ -47,9 +46,6 @@
 📱 **App de Control de Acceso Escolar**
 Sistema móvil que registra entradas usando tarjetas **RFID**.
 
-📊 **Dashboard en tiempo real**
-Visualización de datos y puntajes usando **gráficas y Socket.io**.
-
 🔐 **Sistema de autenticación completo**
 Registro, login, recuperación de contraseña y confirmación de cuenta.
 
@@ -58,21 +54,6 @@ Gestión de tareas y equipos usando **MongoDB**.
 
 ---
 
-# 📊 Estadísticas de GitHub
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ArtQuir29&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArtQuir29&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtQuir29&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 # 🌎 Contacto
 
