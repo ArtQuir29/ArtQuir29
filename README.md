@@ -59,19 +59,19 @@ Gestión de tareas y equipos usando **MongoDB**.
 
 <p align="center">
 
-<a href="mailto:TU_CORREO">
+<a href="mailto:quirogaailton29@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://facebook.com/TU_USUARIO">
+<a href="https://facebook.com/Ailton Artiaga">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/TU_USUARIO">
+<a href="https://instagram.com/ailton_artq">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="tel:+52TU_NUMERO">
+<a href="tel:+52 764-104-7952">
 <img src="https://img.shields.io/badge/Teléfono-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
