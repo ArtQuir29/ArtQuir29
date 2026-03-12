@@ -10,7 +10,7 @@
 
 # 🚀 Sobre mí
 
-* 🎓 Estudiante de programación
+* 🎓 Estudiante en Desarrollo de Software Multiplataforma
 * 🧠 Me gusta desarrollar **sistemas completos (Frontend + Backend)**
 * 📱 Actualmente trabajando en una **App de control de acceso escolar con RFID**
 * 🌐 Desarrollando **APIs y aplicaciones web**
